@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Loshan, pleased to meet you.</h1>
 <h3 align="center">I am passionate about contributing to real-world projects and collaborating with others.</h3> 
+![Alt text](./image-name.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loshan2001&label=Profile%20views&color=0e75b6&style=flat" alt="loshan2001" /> </p>
