@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/loshansp2001@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:loshansp2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3fb950)](https://linkedin.com/in/loshan-saravanaperumal-a92177274)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=3fb950)](https://instagram.com/loszz_11)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=3fb950)](https://instagram.com/loshan__11)
 ![Profile Views](https://komarev.com/ghpvc/?username=loshan2001&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
