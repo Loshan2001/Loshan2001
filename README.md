@@ -4,7 +4,7 @@
 
 # Loshan Saravanaperumal
 
-**`Full-Stack Engineer · Systems Thinker · Open Source Contributor`**
+**`Full-Stack Engineer · Agentic Systems Builder · DevOps Practitioner`**
 
 <br/>
 
@@ -27,7 +27,7 @@ Passionate about building resilient, scalable systems and shipping products that
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | Java · Python · TypeScript · JavaScript · Kotlin · C · C++ · C# |
+| **Languages** | Java · Python · TypeScript · Go · JavaScript · Kotlin · C · C++ · C# |
 | **Frontend** | React · React Native · Redux · Tailwind CSS · Sass · HTML5 |
 | **Backend & Infra** | Spring Boot · Node.js · Express · .NET · Docker · Kubernetes · Jenkins · Kafka |
 | **Databases** | MongoDB · MySQL · PostgreSQL · Oracle · MSSQL |
